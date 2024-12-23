@@ -1,0 +1,16 @@
+﻿  FileTransferData.cpp
+C:\Users\fondo\Desktop\Fund-Games-Net\Lab 8\Tutorial 13\Tut 13 - Server\Tut 13 - Server\FileTransferData.cpp(19,35): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Packet.cpp
+  PacketManager.cpp
+  PacketStructs.cpp
+  ProcessPacket.cpp
+  SendGetMethods.cpp
+  Server.cpp
+  ServerIni.cpp
+  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\fondo\Desktop\Fund-Games-Net\Lab 8\Tutorial 13\Tut 13 - Server\Tut 13 - Server\FileTransferData.cpp(23): warning C4715: 'FileTransferData::Initialize': not all control paths return a value
+  All 689 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tut 13 - Server.vcxproj -> C:\Users\fondo\Desktop\Fund-Games-Net\Lab 8\Tutorial 13\Tut 13 - Server\Release\Tut 13 - Server.exe
